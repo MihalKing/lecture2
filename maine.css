@@ -1,0 +1,27 @@
+.wrap {
+    width: 800px;
+    /*height: 600px;*/
+    border: darkseagreen solid 2px;
+    /*box-sizing: border-box;*/
+
+}
+.top-a {
+    width: 800px;
+    height: 190px;
+    background: darkseagreen;
+    margin-bottom: 10px;
+}
+.box-b {
+    height: 400px;
+    width: 595px;
+    background: silver;
+}
+.box-c {
+    height: 400px;
+    width: 195px;
+    background: cornsilk;
+}
+.father {
+    display: flex;
+    justify-content: space-between;
+}
